@@ -2,6 +2,8 @@
 A real-world command-line application built in Python for text analysis. 
 This tool processes entire novels (like Frankenstein) to generate data reports on word and character frequency.
 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 Phase 1: Setup
 Local Python environment
 Git repository integration
