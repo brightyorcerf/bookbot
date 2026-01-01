@@ -23,5 +23,5 @@ def getSortedList(char_dict):
             new_dict = {"char": char, "num": count}
             sorted_list.append(new_dict)
     
-    sorted_list.sort(reverse=True, key=sort_on)
+    sorted_list.sort(reverse=True, key=sort_on) #uses def sort_on here
     return sorted_list
