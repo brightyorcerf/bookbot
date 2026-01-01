@@ -12,7 +12,7 @@ Read text files from the local filesystem
 Calculate total word count
 Analyze frequency of every character using Python dictionaries
 
-📋 Phase 3: The Report
+Phase 3: The Report
 Format raw data into a clean terminal report
 Build command-line tooling for any .txt file
 
@@ -22,4 +22,4 @@ How to Run it
 git clone https://github.com/YOUR_USERNAME/bookbot.git
 2. Enter the Directory
 cd bookbot
-3. Run the Program
+3. Run the Programgit
