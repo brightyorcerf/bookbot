@@ -20,8 +20,8 @@ Build command-line tooling for any .txt file
 
 
 How to Run it
-1. Clone the Project
-git clone https://github.com/YOUR_USERNAME/bookbot.git
-2. Enter the Directory
+1. clone the project
+git clone https://github.com/brightyorcerf/bookbot.git
+2. enter the directory
 cd bookbot
-3. Run the Programgit
+3. run the program
